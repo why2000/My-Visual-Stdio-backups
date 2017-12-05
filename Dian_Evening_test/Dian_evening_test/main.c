@@ -1,5 +1,6 @@
 #ifndef _MAIN_C
 #define _MAIN_C
+
 #include<main.h>
 #include<stdio.h>
 #include<malloc.h>
