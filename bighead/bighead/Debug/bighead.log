@@ -1,0 +1,5 @@
+﻿  bigheadtask.cpp
+c:\users\hasee\source\repos\bighead\bighead\bigheadtask.cpp(5): warning C4101: “b”: 未引用的局部变量
+c:\users\hasee\source\repos\bighead\bighead\bigheadtask.cpp(5): warning C4101: “y”: 未引用的局部变量
+c:\users\hasee\source\repos\bighead\bighead\bigheadtask.cpp(5): warning C4101: “x”: 未引用的局部变量
+  bighead.vcxproj -> C:\Users\hasee\source\repos\bighead\Debug\bighead.exe

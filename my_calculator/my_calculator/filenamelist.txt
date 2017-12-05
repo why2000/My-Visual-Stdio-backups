@@ -1,0 +1,57 @@
+ 驱动器 C 中的卷是 Windows
+ 卷的序列号是 3C0A-6271
+
+ C:\Users\hasee\source\repos\my_calculator\my_calculator 的目录
+
+2017/11/25  21:59    <DIR>          .
+2017/11/25  21:59    <DIR>          ..
+2017/11/12  23:52             4,457 calculating.c
+2017/11/25  21:59                50 command.bat
+2017/11/25  20:47                 0 command.txt
+2017/11/25  20:15    <DIR>          Debug
+2017/11/25  21:59                 0 filenamelist.txt
+2017/11/25  21:57             2,809 main.c
+2017/11/25  21:59               385 main.h
+2017/11/25  20:15             6,654 my_calculator.vcxproj
+2017/11/25  20:15             1,060 my_calculator.vcxproj.filters
+2017/10/25  17:27               165 my_calculator.vcxproj.user
+2017/10/29  12:55             8,452 my_calculator.zip
+2017/10/29  13:05             7,793 my_calculator_source_nolim.rar
+2017/11/12  23:52             6,054 output.c
+2017/11/12  23:52             5,694 reading.c
+2017/11/16  13:39             2,040 why_calculator.c
+2017/11/20  11:18             1,276 why_calculator.h
+              15 个文件         46,889 字节
+
+ C:\Users\hasee\source\repos\my_calculator\my_calculator\Debug 的目录
+
+2017/11/25  20:15    <DIR>          .
+2017/11/25  20:15    <DIR>          ..
+2017/11/20  14:09            10,888 calculating.obj
+2017/11/25  21:59            15,328 main.obj
+2017/10/26  23:54             1,769 my_calculator.Build.CppClean.log
+2017/11/25  21:59             3,762 my_calculator.log
+2017/11/25  21:59    <DIR>          my_calculator.tlog
+2017/11/20  14:09            29,157 output.obj
+2017/11/20  14:09             9,450 reading.obj
+2017/11/25  21:59            84,992 vc141.idb
+2017/11/25  21:59            86,016 vc141.pdb
+2017/11/20  14:09             9,652 why_calculator.obj
+               9 个文件        251,014 字节
+
+ C:\Users\hasee\source\repos\my_calculator\my_calculator\Debug\my_calculator.tlog 的目录
+
+2017/11/25  21:59    <DIR>          .
+2017/11/25  21:59    <DIR>          ..
+2017/11/25  21:59             3,320 CL.command.1.tlog
+2017/11/25  21:59            24,634 CL.read.1.tlog
+2017/11/25  21:59             8,448 CL.write.1.tlog
+2017/11/25  21:59             1,352 link.command.1.tlog
+2017/11/25  21:59             3,086 link.read.1.tlog
+2017/11/25  21:59               550 link.write.1.tlog
+2017/11/25  21:59               217 my_calculator.lastbuildstate
+               7 个文件         41,607 字节
+
+     所列文件总数:
+              31 个文件        339,510 字节
+               8 个目录 69,153,644,544 可用字节

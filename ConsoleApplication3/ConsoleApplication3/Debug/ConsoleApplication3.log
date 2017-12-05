@@ -1,0 +1,2 @@
+﻿  1test.c
+c:\users\hasee\source\repos\consoleapplication3\consoleapplication3\1test.c(2): fatal error C1083: 无法打开预编译头文件: “Debug\ConsoleApplication3.pch”: No such file or directory

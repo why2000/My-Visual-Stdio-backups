@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\实验1">
+      <UniqueIdentifier>{3fde675c-c3e3-4ef1-8e0c-858970bac4c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实验2">
+      <UniqueIdentifier>{dfe008b8-33a9-4043-af42-095ac329d525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实验3">
+      <UniqueIdentifier>{b23e1a34-5f1a-4eec-97da-05cbfaa65ebb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2017.9-11月网测作业">
+      <UniqueIdentifier>{ee8603e0-6516-4cdb-b16a-542454146e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\2017.12-2018.2月网测作业">
+      <UniqueIdentifier>{983ab52f-229e-4288-b570-2bcbffd546f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\实验3">
+      <UniqueIdentifier>{ea5b9c74-f2cf-4f90-921a-c20f702d0c82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="实验1.1.c">
+      <Filter>源文件\实验1</Filter>
+    </ClCompile>
+    <ClCompile Include="实验1.2.c">
+      <Filter>源文件\实验1</Filter>
+    </ClCompile>
+    <ClCompile Include="实验1.3.c">
+      <Filter>源文件\实验1</Filter>
+    </ClCompile>
+    <ClCompile Include="实验1.替换1.c">
+      <Filter>源文件\实验1</Filter>
+    </ClCompile>
+    <ClCompile Include="实验1.修改1.c">
+      <Filter>源文件\实验1</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.1.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.2.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.3.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.4.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.替换1.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.替换2.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.替换3.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.修改1.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="实验2.选做1.c">
+      <Filter>源文件\实验2</Filter>
+    </ClCompile>
+    <ClCompile Include="冰雹数.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="第k个数.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="短整数的高低字节.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波拉契数列.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="两个实数的四则运算.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\husttest4\husttest4\枚举类型应用.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="求π的近似值.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="十六进制整数转换.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="十六进制字符处理.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="是否回文串.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="输出中间数.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="数组分段交换.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="统计.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="无符号短整数处理.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\husttest2\husttest2\循环移位.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="一年中的第几天.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\husttest1\husttest1\整数的二进制翻转.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\husttest3\husttest3\整数判断.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="正整数相加求平均数.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="掷骰子游戏.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串复制.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公约数与最小公倍数.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3.1.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3.修改1.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3.替换1.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3.替换2.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3.调试1.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3.2.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="哥德巴赫猜想.c">
+      <Filter>源文件\2017.9-11月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3_file1.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="实验3_file2.c">
+      <Filter>源文件\实验3</Filter>
+    </ClCompile>
+    <ClCompile Include="宏定义求三角形面积.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="实验3_file.h">
+      <Filter>头文件\实验3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

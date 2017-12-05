@@ -1,0 +1,7 @@
+﻿  00.c
+c:\users\hasee\source\repos\husttest\project1\project1\00.c(22): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+c:\users\hasee\source\repos\husttest\project1\project1\00.c(24): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  c:\users\hasee\source\repos\husttest\project1\project1\00.c(24): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\hasee\source\repos\husttest\project1\project1\00.c(24): note: 缺失的可变参数 1 为格式字符串“%d”所需
+  Project1.vcxproj -> C:\Users\hasee\source\repos\husttest\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\hasee\source\repos\husttest\Project1\Debug\Project1.pdb (Partial PDB)

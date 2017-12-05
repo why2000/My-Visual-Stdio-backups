@@ -1,0 +1,4 @@
+﻿  startlearning.cpp
+c:\users\hasee\source\repos\project1\project1\startlearning.cpp(4): error C2039: “cont”: 不是“std”的成员
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\iostream(13): note: 参见“std”的声明
+c:\users\hasee\source\repos\project1\project1\startlearning.cpp(4): error C2065: “cont”: 未声明的标识符
