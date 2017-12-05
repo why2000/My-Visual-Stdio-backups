@@ -1,17 +1,16 @@
-#define NOW
+//#define NOW
 #ifdef NOW
 #include<stdio.h>
-
-int gcd(int x, int y)
-{
-    return y ? gcd(y, x%y) : x;
-}
+#include<math.h>
+#define cals(a,b,c) ((a+b+c)/2)
+#define s cals(a,b,c)
+#define calarea(a,b,c) (sqrt(s*(s-a)*(s-b)*(s-c)))
 int main(void) {
-    int num1, num2;
-    while ((scanf("%d %d", &num1, &num2), !(num1 == 0 && num2 == 0))) {
-        int max = gcd(num1, num2);
-        int min = num1*num2 / max;
-        printf("%d %d\n", max, min);
+    double a, b, c;
+    double area;
+    while (scanf("%lf %lf %lf", &a, &b, &c) != EOF) {
+        area = calarea(a, b, c);
+        printf("%.0f %lf\n", s, area);
     }
     return 0;
 }

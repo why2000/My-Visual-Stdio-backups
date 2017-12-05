@@ -174,6 +174,18 @@
     <ClCompile Include="宏定义求三角形面积.c">
       <Filter>源文件\2017.12-2018.2月网测作业</Filter>
     </ClCompile>
+    <ClCompile Include="宏定义控制电文输出.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="数组元素颠倒.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串连接.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序指针实现.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="实验3_file.h">

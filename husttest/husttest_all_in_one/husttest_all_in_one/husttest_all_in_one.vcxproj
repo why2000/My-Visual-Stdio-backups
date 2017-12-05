@@ -122,6 +122,9 @@
     <ClCompile Include="..\..\husttest2\husttest2\循环移位.c" />
     <ClCompile Include="..\..\husttest3\husttest3\整数判断.c" />
     <ClCompile Include="..\..\husttest4\husttest4\枚举类型应用.c" />
+    <ClCompile Include="冒泡排序指针实现.c" />
+    <ClCompile Include="字符串连接.c" />
+    <ClCompile Include="宏定义控制电文输出.c" />
     <ClCompile Include="宏定义求三角形面积.c" />
     <ClCompile Include="实验3_file2.c" />
     <ClCompile Include="一年中的第几天.c" />
@@ -153,6 +156,7 @@
     <ClCompile Include="实验3.2.c" />
     <ClCompile Include="实验3_file1.c" />
     <ClCompile Include="掷骰子游戏.c" />
+    <ClCompile Include="数组元素颠倒.c" />
     <ClCompile Include="数组分段交换.c" />
     <ClCompile Include="斐波拉契数列.c" />
     <ClCompile Include="无符号短整数处理.c" />
