@@ -1,0 +1,15 @@
+﻿  main.c
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(11): warning C4005: “MAX_PATH”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(60): note: 参见“MAX_PATH”的前一个定义
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(34): warning C4020: “system”: 实参太多
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(35): warning C4020: “system”: 实参太多
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(37): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(53): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: 参见“strcat”的声明
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(62): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(63): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+c:\users\hasee\source\repos\dian_evening_test\dian_evening_test\main.c(64): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(93): note: 参见“strcat”的声明
