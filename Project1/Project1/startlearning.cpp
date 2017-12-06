@@ -1,36 +1,33 @@
-#include <stdio.h>
-#include<malloc.h>
-int main(void)
-{
-    int i, j, t, n;
-    scanf("%d", &n);
-    while (n != 0)
-    {
-        int *a;
-        a = (int*)malloc(sizeof(int)*n);
-        for (i = 0; i < n; i++)
-            scanf("%d", &a[i]);
-        for (i = 0; i < n - 1; i++)
-        {
-            for (j = 0; j < n - 1; j++)
-            {
-                if (a[n - 1 - i] >= a[n - 2 - j - i]);
-                else {
-                    t = a[n - 1 - i];
-                    a[n - 1 - i] = a[n - 2 - j - i];
-                    a[n - 2 - j - i] = t;
-                }
+#include<stdio.h>
+int main(void) {
+    double x, a, b, c, d, e;
+    x = 1;
+    while (x != 0) {
+        scanf("%lf", &x);
+        if (x != 0) {
+            if (x<1000) printf("%lf\n", 0);
+            else if (x<2000) {
+                a = (x - 1000)*0.05;
+                printf("%lf\n", a);
             }
-
+            else if (x<3000) {
+                b = (x - 2000)*0.10;
+                b = 50 + b;
+                printf("%lf\n", b);
+            }
+            else if (x<4000) {
+                c = (x - 3000)*0.15;
+                printf("%lf\n", 150 + c);
+            }
+            else if (x<5000) {
+                d = (x - 4000)*0.20;
+                printf("%f\n", 300 + d);
+            }
+            else {
+                e = (x - 5000)*0.25;
+                printf("%lf\n", 500 + e);
+            }
         }
-        for (i = 0; i < n; i++)
-        {
-            if (i < n - 1)
-                printf("%d ", a[i]);
-            else
-                printf("%d\n", a[i]);
-        }
-        scanf("%d", &n);
     }
     return 0;
 }
