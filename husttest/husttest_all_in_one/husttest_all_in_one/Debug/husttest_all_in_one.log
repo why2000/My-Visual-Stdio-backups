@@ -1,4 +1,4 @@
-﻿  冒泡排序指针实现.c
-c:\users\hasee\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\冒泡排序指针实现.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
-  husttest_all_in_one.vcxproj -> C:\Users\hasee\source\repos\husttest\husttest_all_in_one\Debug\husttest_all_in_one.exe
+﻿  实验3_file2.c
+  实验3_file1.c
+  正在生成代码...
+LINK : fatal error LNK1561: 必须定义入口点

@@ -13,6 +13,8 @@ int main(void) {
     while ((scanf("%d %d", &begin, &end), begin) != 0) {
         int len = end - 1;
         int *prime = (int*)calloc(len, sizeof(int));
+        printf("GOLDBACH'S CONJECTURE:\n"
+                "Every even number n >= 4 is the sum of two primes.\n");
         calprime(prime, len);
         if (begin % 2) {
             search(begin + 1, end, prime);
