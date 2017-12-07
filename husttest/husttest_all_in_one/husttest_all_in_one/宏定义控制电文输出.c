@@ -1,4 +1,4 @@
-#define NOW
+//#define NOW
 #ifdef NOW
 #include<stdio.h>
 #define MAXLINE 1024
