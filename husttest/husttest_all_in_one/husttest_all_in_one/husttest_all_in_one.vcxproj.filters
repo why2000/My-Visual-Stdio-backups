@@ -31,6 +31,12 @@
     <Filter Include="头文件\实验3">
       <UniqueIdentifier>{ea5b9c74-f2cf-4f90-921a-c20f702d0c82}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\实验4">
+      <UniqueIdentifier>{e01e48e0-bedc-4f8f-83d3-c523390eaab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实验5">
+      <UniqueIdentifier>{b43777a0-c624-495b-80c7-10277a3e63bf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="实验1.1.c">
@@ -184,6 +190,63 @@
       <Filter>源文件\2017.12-2018.2月网测作业</Filter>
     </ClCompile>
     <ClCompile Include="冒泡排序指针实现.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4.修改1.c">
+      <Filter>源文件\实验4</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4.替换1.c">
+      <Filter>源文件\实验4</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4.替换2.c">
+      <Filter>源文件\实验4</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4.调试1.c">
+      <Filter>源文件\实验4</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4.1.c">
+      <Filter>源文件\实验4</Filter>
+    </ClCompile>
+    <ClCompile Include="实验4.2.c">
+      <Filter>源文件\实验4</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.修改1.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.替换1.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.替换2.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.调试1.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.1.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.2.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.3.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.选做1.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="实验5.选做2.c">
+      <Filter>源文件\实验5</Filter>
+    </ClCompile>
+    <ClCompile Include="超长字符串.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="网址管理.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="结构指针.c">
+      <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="第几天，结构体实现.c">
       <Filter>源文件\2017.12-2018.2月网测作业</Filter>
     </ClCompile>
   </ItemGroup>

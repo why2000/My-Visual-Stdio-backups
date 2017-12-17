@@ -155,6 +155,21 @@
     <ClCompile Include="实验3.调试1.c" />
     <ClCompile Include="实验3.2.c" />
     <ClCompile Include="实验3_file1.c" />
+    <ClCompile Include="实验4.1.c" />
+    <ClCompile Include="实验4.2.c" />
+    <ClCompile Include="实验4.修改1.c" />
+    <ClCompile Include="实验4.替换1.c" />
+    <ClCompile Include="实验4.替换2.c" />
+    <ClCompile Include="实验4.调试1.c" />
+    <ClCompile Include="实验5.1.c" />
+    <ClCompile Include="实验5.2.c" />
+    <ClCompile Include="实验5.3.c" />
+    <ClCompile Include="实验5.修改1.c" />
+    <ClCompile Include="实验5.替换1.c" />
+    <ClCompile Include="实验5.替换2.c" />
+    <ClCompile Include="实验5.调试1.c" />
+    <ClCompile Include="实验5.选做1.c" />
+    <ClCompile Include="实验5.选做2.c" />
     <ClCompile Include="掷骰子游戏.c" />
     <ClCompile Include="数组元素颠倒.c" />
     <ClCompile Include="数组分段交换.c" />
@@ -166,7 +181,11 @@
     <ClCompile Include="求π的近似值.c" />
     <ClCompile Include="短整数的高低字节.c" />
     <ClCompile Include="第k个数.c" />
+    <ClCompile Include="第几天，结构体实现.c" />
+    <ClCompile Include="结构指针.c" />
     <ClCompile Include="统计.c" />
+    <ClCompile Include="网址管理.c" />
+    <ClCompile Include="超长字符串.c" />
     <ClCompile Include="输出中间数.c" />
     <ClCompile Include="选择排序.c" />
   </ItemGroup>

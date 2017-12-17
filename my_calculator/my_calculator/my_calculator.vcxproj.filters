@@ -47,5 +47,17 @@
     <ClCompile Include="translate.c">
       <Filter>源文件\熬测临时项目</Filter>
     </ClCompile>
+    <ClCompile Include="calculating.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="output.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="reading.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
+    <ClCompile Include="why_calculator.c">
+      <Filter>源文件\计算器</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
