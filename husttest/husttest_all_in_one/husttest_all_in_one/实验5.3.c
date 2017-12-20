@@ -57,30 +57,31 @@ void bisearch(int tar, student* stu, int n) {
         {
             int now;
             int flag1 = 0, flag2 = 0;
+            printf("These are the students with the score of %d :\n", tar);
             for (i = 0; ; i++) {
                 now = mid + i;
                 if ((stu + now)->score == tar && (!flag1)) {
-                    printf("This is the students with the score of %d :\n", tar);
                     printf("Name: %s    Score: %d\n", (stu + now)->name, (stu + now)->score);
                 }
                 else {
                     flag1 = 1;
                 }
                 now = mid - i;
-                if ((stu + now)->score == tar && (!flag2) && i != 0) {
-                    printf("This is the students with the score of %d :\n", tar);
-                    printf("Name: %s    Score: %d\n", (stu + now)->name, (stu + now)->score);
+                if ((stu + now)->score == tar && (!flag2)) {
+                    if (i != 0) {
+                        printf("Name: %s    Score: %d\n", (stu + now)->name, (stu + now)->score);
+                    }
                 }
                 else {
                     flag2 = 1;
                 }
                 if (flag1&&flag2)break;
             }
-            return;
-            
+            return;   
         }
     }
     printf("not found\n");
 
 }
+
 #endif

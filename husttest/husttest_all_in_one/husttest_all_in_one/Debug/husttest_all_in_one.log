@@ -1,7 +1,4 @@
-﻿  第几天，结构题实现.c
-c:\users\hasee\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\第几天，结构题实现.c(31): warning C4013: “malloc”未定义；假设外部返回 int
-c:\users\hasee\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\第几天，结构题实现.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
-c:\users\hasee\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\第几天，结构题实现.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+﻿  超长字符串.c
+  实验5.选做2.c
+  正在生成代码...
   husttest_all_in_one.vcxproj -> C:\Users\hasee\source\repos\husttest\husttest_all_in_one\Debug\husttest_all_in_one.exe

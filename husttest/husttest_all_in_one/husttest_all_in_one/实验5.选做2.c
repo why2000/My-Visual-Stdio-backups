@@ -1,9 +1,7 @@
 //#define NOW
 #ifdef NOW
 #include <stdio.h>
-
-#include <math.h>
-void execute(int* count);
+void execute(int* sum);
 
 int main(void)
 {
@@ -13,20 +11,20 @@ int main(void)
     return 0;
 }
 
-void execute(int* count)
+void execute(int* sum)
 {
     int i, j, flag;
-    int position[9] = { 0 };
-    while (position[8] != 1)
+    int pos[9] = { 0 };
+    while (pos[8] != 1)
     {
-        ++position[0];
-        //穷举
+        ++pos[0];
+        //穷举,j表示第i行的棋子放在哪一个位置
         for (i = 0; i < 8; ++i)
         {
-            if (position[i] == 8)
+            if (pos[i] == 8)
             {
-                position[i] = 0;
-                ++position[i + 1];
+                pos[i] = 0;
+                ++pos[i + 1];
             }
         }
         flag = 1;
@@ -37,12 +35,18 @@ void execute(int* count)
             {
                 if (i != j)
                 {
-                    if (position[i] == position[j])
+                    if (pos[i] == pos[j]) {
                         flag = 0;
-                    else if (abs(position[i] - position[j]) == abs(i - j))
+                        break;
+                    }
+                    else if ((pos[i] - pos[j]) == (i - j) || (pos[i] - pos[j]) == (j - i)) {
                         flag = 0;
+                        break;
+                    }
                 }
+                
             }
+            if (!flag)break;
         }
         //输出
         if (flag)
@@ -51,7 +55,7 @@ void execute(int* count)
             {
                 for (j = 0; j < 8; ++j)
                 {
-                    if (position[i] == j)
+                    if (pos[i] == j)
                         printf("1  ");
                     else
                         printf("0  ");
@@ -60,7 +64,7 @@ void execute(int* count)
             }
             printf("\n");
         }
-        *count += flag;
+        *sum += flag;
     }
 }
 

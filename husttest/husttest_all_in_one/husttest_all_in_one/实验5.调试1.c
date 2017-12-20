@@ -13,8 +13,8 @@ void strncat(char s[], char t[], int n)
 {
     int i = 0, j;
     while (s[++i]);//i++¸Ä³É++i¼´¿É
-        for (j = 0; j < n && t[j];)
-            s[i++] = t[j++];
+    for (j = 0; j < n && t[j];)
+        s[i++] = t[j++];
     s[i] = '\0';
 }
 
