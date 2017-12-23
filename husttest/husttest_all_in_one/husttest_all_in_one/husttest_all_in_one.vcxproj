@@ -170,6 +170,16 @@
     <ClCompile Include="实验5.调试1.c" />
     <ClCompile Include="实验5.选做1.c" />
     <ClCompile Include="实验5.选做2.c" />
+    <ClCompile Include="实验6.1.c" />
+    <ClCompile Include="实验6.2.c" />
+    <ClCompile Include="实验6.3.c" />
+    <ClCompile Include="实验6.4.c" />
+    <ClCompile Include="实验6.修改1.c" />
+    <ClCompile Include="实验6.替换1.c" />
+    <ClCompile Include="实验6.替换2.c" />
+    <ClCompile Include="实验6.调试1.c" />
+    <ClCompile Include="实验6.选做1.c" />
+    <ClCompile Include="实验6.选做2.c" />
     <ClCompile Include="掷骰子游戏.c" />
     <ClCompile Include="数组元素颠倒.c" />
     <ClCompile Include="数组分段交换.c" />

@@ -16,9 +16,6 @@
     <Filter Include="源文件\实验1">
       <UniqueIdentifier>{3fde675c-c3e3-4ef1-8e0c-858970bac4c9}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\实验2">
-      <UniqueIdentifier>{dfe008b8-33a9-4043-af42-095ac329d525}</UniqueIdentifier>
-    </Filter>
     <Filter Include="源文件\实验3">
       <UniqueIdentifier>{b23e1a34-5f1a-4eec-97da-05cbfaa65ebb}</UniqueIdentifier>
     </Filter>
@@ -36,6 +33,12 @@
     </Filter>
     <Filter Include="源文件\实验5">
       <UniqueIdentifier>{b43777a0-c624-495b-80c7-10277a3e63bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实验6">
+      <UniqueIdentifier>{e7c65768-53f1-4011-835f-6b91cc47e5bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\实验2">
+      <UniqueIdentifier>{dfe008b8-33a9-4043-af42-095ac329d525}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -248,6 +251,36 @@
     </ClCompile>
     <ClCompile Include="第几天，结构体实现.c">
       <Filter>源文件\2017.12-2018.2月网测作业</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.修改1.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.替换1.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.替换2.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.调试1.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.1.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.2.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.4.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.3.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.选做1.c">
+      <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验6.选做2.c">
+      <Filter>源文件\实验6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
