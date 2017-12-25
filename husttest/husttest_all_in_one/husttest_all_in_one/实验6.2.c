@@ -17,6 +17,7 @@ int main(void) {
     for (i = 0; i < n; i++) {
         gets(buf[i]);
     }
+	printf("Here are the results:\n");
     for (i = 0; i < n; i++) {
         execute(buf[i]);
     }

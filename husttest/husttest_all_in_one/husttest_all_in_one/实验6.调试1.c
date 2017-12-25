@@ -11,8 +11,8 @@ int main(void)
 }
 char *strcpy(char *s, char *t)
 {
-    int *buf = s;
-    while (*(s++) = *(t++))
+    char *buf = s;
+    while (*s++ = *t++)
         ;
     return (buf);
 }

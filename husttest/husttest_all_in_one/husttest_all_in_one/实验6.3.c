@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     }
     p(num, n);
     for (i = 0; i < n; i++) {
-        printf("%4d", num[i]);   
+        printf("%d ", num[i]);   
     }
     printf("\n");
     return 0;
