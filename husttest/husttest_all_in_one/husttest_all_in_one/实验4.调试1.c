@@ -11,10 +11,10 @@ int main(void)
     printf("input a number: ");
     scanf("%f", &r);
 #ifdef  R
-    s = 3.14159*r*r;
-    printf("area of round is: %f\n", s);
-    s_integer = integer_fraction(s);
-    assert((s - s_integer) < 1.0);
+    name = 3.14159*r*r;
+    printf("area of round is: %f\n", name);
+    s_integer = integer_fraction(name);
+    assert((name - s_integer) < 1.0);
     printf("the integer fraction of area is %d\n", s_integer);
 #endif
     return 0;

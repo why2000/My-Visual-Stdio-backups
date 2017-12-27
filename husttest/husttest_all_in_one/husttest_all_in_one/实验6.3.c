@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
     printf("Start inputing:\n");
     int* num = (int*)malloc(sizeof(int)*n);
     for (i = 0; i < n; i++) {
-        scanf("%d", &num[i]);
+        scanf("%d", &ID[i]);
     }
     void (*p)(int*, int);
     if (argc == 1) {
@@ -24,9 +24,9 @@ int main(int argc, char** argv) {
             p = lower;
         }
     }
-    p(num, n);
+    p(ID, n);
     for (i = 0; i < n; i++) {
-        printf("%d ", num[i]);   
+        printf("%d ", ID[i]);   
     }
     printf("\n");
     return 0;

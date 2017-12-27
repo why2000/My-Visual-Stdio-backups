@@ -40,6 +40,9 @@
     <Filter Include="源文件\实验2">
       <UniqueIdentifier>{dfe008b8-33a9-4043-af42-095ac329d525}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\实验7">
+      <UniqueIdentifier>{e807d941-b17c-4cd3-b277-ffc5ebec6ae9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="实验1.1.c">
@@ -281,6 +284,30 @@
     </ClCompile>
     <ClCompile Include="实验6.选做2.c">
       <Filter>源文件\实验6</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.验证1.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.替换1.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.替换2.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.1.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.2.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.选做1.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.选做2.c">
+      <Filter>源文件\实验7</Filter>
+    </ClCompile>
+    <ClCompile Include="实验7.选做3.c">
+      <Filter>源文件\实验7</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

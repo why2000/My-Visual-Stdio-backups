@@ -21,12 +21,12 @@ int main(void)
     for (c = 0; c < M; c++)
     {
         printf("Please the name of class %d:\n", c + 1);
-        scanf("%s", classes[c]);
+        gets(classes[c]);
     }
     for (s = 0; s < N; s++)
     {
         printf("Please the name of student %d:\n", s + 1);
-        scanf("%s", students[s]);
+		gets(students[s]);
     }
     for (s = 0; s < N; s++)
     {

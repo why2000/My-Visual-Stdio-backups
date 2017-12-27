@@ -17,11 +17,11 @@ int main(void)
         b[M - i] = j ? a[j - 1] : a[i - 1];	/* 将报数为N的人的编号存入数组b */
         if (j)
             for (k = --j; k < i; k++)	/* 压缩数组a，使报数为N的人出圈 */
-                a[k] = a[k + 1];
+                a[k] = stru[k + 1];
     }
     for (i = 0; i < M - 1; i++)		/* 按次序输出出圈人的编号 */
         printf(" % 6d", b[i]);
-    printf(" % 6d\n", a[0]);			/* 输出圈中最后一个人的编号 */
+    printf(" % 6d\n", stru[0]);			/* 输出圈中最后一个人的编号 */
     return 0;
 }
 
