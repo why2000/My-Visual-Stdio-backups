@@ -78,7 +78,7 @@ void sortbyvalue(stu **headp) {
 	}
 	p = *headp;
 	int n;
-	for (n = 0; p->next->next != NULL; n++, (p = p->next));
+	for (n = 0; p->next != NULL; n++, (p = p->next));
 	p = *headp;
 	while (n > 1) {
 		while (p->next->next != NULL) {

@@ -188,6 +188,10 @@
     <ClCompile Include="实验7.选做2.c" />
     <ClCompile Include="实验7.选做3.c" />
     <ClCompile Include="实验7.验证1.c" />
+    <ClCompile Include="实验8.1.c" />
+    <ClCompile Include="实验8.替换1.c" />
+    <ClCompile Include="实验8.替换2.c" />
+    <ClCompile Include="实验8.验证1.c" />
     <ClCompile Include="掷骰子游戏.c" />
     <ClCompile Include="数组元素颠倒.c" />
     <ClCompile Include="数组分段交换.c" />
@@ -209,6 +213,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="实验3_file.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="abc1.bin" />
+    <None Include="test" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="abc2.txt" />
+    <Text Include="see.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

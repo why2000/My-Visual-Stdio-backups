@@ -43,6 +43,9 @@
     <Filter Include="源文件\实验7">
       <UniqueIdentifier>{e807d941-b17c-4cd3-b277-ffc5ebec6ae9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\实验8">
+      <UniqueIdentifier>{ae695afa-d5e7-4d91-b810-b6ebc3bdb644}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="实验1.1.c">
@@ -309,10 +312,38 @@
     <ClCompile Include="实验7.选做3.c">
       <Filter>源文件\实验7</Filter>
     </ClCompile>
+    <ClCompile Include="实验8.验证1.c">
+      <Filter>源文件\实验8</Filter>
+    </ClCompile>
+    <ClCompile Include="实验8.替换1.c">
+      <Filter>源文件\实验8</Filter>
+    </ClCompile>
+    <ClCompile Include="实验8.替换2.c">
+      <Filter>源文件\实验8</Filter>
+    </ClCompile>
+    <ClCompile Include="实验8.1.c">
+      <Filter>源文件\实验8</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="实验3_file.h">
       <Filter>头文件\实验3</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="test">
+      <Filter>源文件\实验8</Filter>
+    </None>
+    <None Include="abc1.bin">
+      <Filter>源文件\实验8</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="abc2.txt">
+      <Filter>源文件\实验8</Filter>
+    </Text>
+    <Text Include="see.txt">
+      <Filter>源文件\实验8</Filter>
+    </Text>
   </ItemGroup>
 </Project>

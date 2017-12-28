@@ -79,7 +79,7 @@ int main(void)
 void sortbyaddress(stu **headp) {
 	stu *p = *headp;
 	int n;
-	for (n = 0; p->next->next != NULL; n++, (p = p->next));
+	for (n = 0; p->next != NULL; n++, (p = p->next));
 	p = *headp;
 	stu *foo = (stu *)malloc(sizeof(stu));
 	foo->next = *headp;
@@ -113,7 +113,7 @@ void sortbyaddress(stu **headp) {
 void sortbyvalue(stu **headp) {
 	stu *p = *headp;
 	int n;
-	for (n = 0; p->next->next != NULL; n++, (p = p->next));
+	for (n = 0; p->next != NULL; n++, (p = p->next));
 	p = *headp;
 	while (n > 1) {
 		while (p->next->next != NULL) {
