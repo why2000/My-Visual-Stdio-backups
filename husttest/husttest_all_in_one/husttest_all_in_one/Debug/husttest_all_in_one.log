@@ -1,7 +1,66 @@
-﻿  实验8.替换2.c
-  实验8.1.c
-c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验8.1.c(15): warning C4013: “gets”未定义；假设外部返回 int
-c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验8.1.c(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+﻿  实验8.1.c
+  实验7.选做3.c
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(38): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(87): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(97): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(146): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(114): warning C4101: “temp”: 未引用的局部变量
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(195): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(212): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(214): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(203): warning C4101: “buf”: 未引用的局部变量
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(240): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(255): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(257): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(281): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(289): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(303): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(328): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(358): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(364): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(370): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(376): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(382): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(388): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(394): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(400): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(406): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(412): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(418): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(424): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(430): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(459): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
+c:\users\why\source\repos\husttest\husttest_all_in_one\husttest_all_in_one\实验7.选做3.c(481): warning C4996: 'setbuf': This function or variable may be unsafe. Consider using setvbuf instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(394): note: 参见“setbuf”的声明
   正在生成代码...
   husttest_all_in_one.vcxproj -> C:\Users\why\source\repos\husttest\husttest_all_in_one\Debug\husttest_all_in_one.exe

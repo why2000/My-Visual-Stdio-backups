@@ -2,7 +2,7 @@
 #ifdef NOW
 #include <stdio.h>
 #include <Windows.h>
-#pragma comment(lib, "wsock32.lib") 
+//#pragma comment(lib, "wsock32.lib") 
 int  main(void)
 {
 	unsigned short a = 0x253f, b = 0x7b7d;
